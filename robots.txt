@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bersasph.github.io/sitemap.bersasph.gz
+Sitemap: https://bersasph.github.io/app/sitemap.bersasph.gz
+Sitemap: https://bersasph.github.io/assets/sitemap.bersasph.gz
+Sitemap: https://bersasph.github.io/css/sitemap.bersasph.gz
+Sitemap: https://bersasph.github.io/data/sitemap.bersasph.gz
+Sitemap: https://bersasph.github.io/includes/sitemap.bersasph.gz
+Sitemap: https://bersasph.github.io/item/sitemap.bersasph.gz
+Sitemap: https://bersasph.github.io/src/sitemap.bersasph.gz
